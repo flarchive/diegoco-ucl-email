@@ -1,0 +1,50 @@
+{
+  "name": "diegoco/ucl-email",
+  "description": "Prevent users from signing up with non-UCL emails",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/dieguitocollado/disposable-emails/issues",
+    "source": "https://github.com/dieguitocollado/disposable-emails/",
+    "forum": "https://github.com/dieguitocollado/disposable-emails/"
+  },
+  "homepage": "https://forum.uclfilm.com",
+  "funding": [
+    {
+      "type": "website",
+      "url": "https://forum.uclfilm.com"
+    }
+  ],
+  "require": {
+    "flarum/core": "^0.1.0-beta.14"
+  },
+  "authors": [
+    {
+      "name": "Diego",
+      "email": "zclcdco@ucl.ac.uk",
+      "role": "Dev?"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DiegoCo\\UclEmail\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "UCL Emails",
+      "category": "moderation",
+      "icon": {
+        "name": "fas fa-user-times",
+        "backgroundColor": "#e74c3c",
+        "color": "#fff"
+      }
+    },
+    "flagrow": {
+      "discuss": "https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails"
+    }
+  }
+}
