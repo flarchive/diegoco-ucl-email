@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of diegoco/ucl-email.** Not for installation: use [Packagist](https://packagist.org/packages/diegoco/ucl-email) or the [upstream repository](https://github.com/dieguitocollado/ucl-email).
 
-**0** versions archived · Latest: [`0.3`](https://github.com/flarchive/diegoco-ucl-email/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**4** versions archived · Latest: [`0.3`](https://github.com/flarchive/diegoco-ucl-email/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-06-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/diegoco-ucl-email/tree/archive/v0.1.0) |
+| `0.2.0` | 2020-11-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/diegoco-ucl-email/tree/archive/v0.2.0) |
+| `0.2.1` | 2020-12-14 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/diegoco-ucl-email/tree/archive/v0.2.1) |
+| `0.3` | 2021-03-03 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/diegoco-ucl-email/tree/archive/v0.3) |
 
 Catalog entry: [packages/diegoco-ucl-email.json](https://github.com/flarchive/archive-index/blob/main/packages/diegoco-ucl-email.json)
 
